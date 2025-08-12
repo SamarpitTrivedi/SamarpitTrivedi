@@ -1,4 +1,4 @@
-### Hi I'm Samarpit 👋
+# Hi I'm Samarpit 👋
 
 # 💫 About Me:
 <br>🔭 I’m currently working on **Data Science & Analytics Projects**  <br>🤝 I’m looking to collaborate on **Python, Power BI, and Data Analysis**  <br>💛 I’m looking for help with **Advanced Machine Learning Projects**  <br>🌱 I’m currently learning **Machine Learning, NLP, and Deep Learning**  <br>💬 Ask me about **Python, Power BI, SQL, Data Analysis**  <br>⚡ Fun fact **I wake up at 4 AM and hit the gym by 5 AM**<br>
